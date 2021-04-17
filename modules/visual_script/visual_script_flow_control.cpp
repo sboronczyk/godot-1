@@ -364,7 +364,7 @@ PropertyInfo VisualScriptIterator::get_output_value_port_info(int p_idx) const {
 }
 
 String VisualScriptIterator::get_caption() const {
-	return "Iterator";
+	return "For Loop Fuck";
 }
 
 String VisualScriptIterator::get_text() const {

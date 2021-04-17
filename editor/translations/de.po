@@ -14434,7 +14434,7 @@ msgstr "Konstanten können nicht verändert werden."
 #~ msgstr "Switch"
 
 #~ msgid "Iterator"
-#~ msgstr "Iterator"
+#~ msgstr "For loop"
 
 #~ msgid "While"
 #~ msgstr "While"
